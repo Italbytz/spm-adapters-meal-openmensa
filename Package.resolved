@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OpenMensaInfrastructure",
+        "repositoryURL": "https://github.com/Italbytz/spm-infrastructure-openmensa.git",
+        "state": {
+          "branch": null,
+          "revision": "726d77cce763e90e9f801f52982a2eb5f3533732",
+          "version": "0.0.4"
+        }
+      },
+      {
+        "package": "CommonPorts",
+        "repositoryURL": "https://github.com/Italbytz/spm-ports-common.git",
+        "state": {
+          "branch": null,
+          "revision": "1c4bfa422ce83b9bcba9de2ceb1ad7ecaf85ca22",
+          "version": "0.0.5"
+        }
+      },
+      {
+        "package": "MealPorts",
+        "repositoryURL": "https://github.com/Italbytz/spm-ports-meal.git",
+        "state": {
+          "branch": null,
+          "revision": "e4ed4d4ae9f96d891e8d90ed4563a6342aa7281e",
+          "version": "0.0.7"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
